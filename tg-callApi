@@ -8,7 +8,7 @@
     tidak ada lagi pemisahan request dan requestForm
 */
 
-const token = "2111348696:AAEFGPwWKnu4iWNcePyPkRxwc2mP7wQND2U"
+const token = "ISI_TOKEN_DISINI"
 const verbose = true
 
 // tipe data yang wajib bertipe JSON
